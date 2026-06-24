@@ -44,7 +44,7 @@ Projeto de análise de dados governamentais para mapeamento de balança comercia
 #### 🪑 [Desenvolvimento e Produção de Móvel Planejado](https://github.com/JoseSergio414/Projeto-e-desenvolvimentos-de-Produtos.git)
 Projeto prático focado no desenvolvimento de produto e planejamento de manufatura. Elaboração de relatório técnico abrangendo o escopo do projeto, desenho técnico, documentação, dimensionamento de materiais e roteiro de produção.
 
-#### 📈 [Modelagem em Pesquisa Operacional](link_aqui)
+#### 📈 [Modelagem em Pesquisa Operacional](https://github.com/JoseSergio414/Pesquisa-Operacional.git)
 Repositório contendo planilhas e modelos matemáticos de Pesquisa Operacional voltados para otimização de recursos, minimização de custos e maximização de resultados (aplicações diretas para PCP e Logística).
 
 #### 🧰 [Fundamentos de Análise de Dados e BI (1º Semestre)](https://github.com/JoseSergio414/Fontes_dados.git)
