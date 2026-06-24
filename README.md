@@ -33,7 +33,7 @@ Atualmente cursando **Gestão da Produção Industrial na FATEC**, busco conecta
 
 Aqui estão os principais projetos práticos e acadêmicos que desenvolvi, focados em resolução de problemas complexos e análise de dados:
 
-#### 🏭 [Transição Indústria 4.0 na Cadeia Automotiva (API 2º Semestre)](link_aqui)
+#### 🏭 [Transição Indústria 4.0 na Cadeia Automotiva (API 2º Semestre)](https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II.git)
 Mapeamento da maturidade tecnológica e impactos no RH da GM São José dos Campos. 
 - **Minha atuação:** Fui o responsável pelo Tratamento de Dados (ETL) utilizando Python e pela modelagem/criação do Dashboard gerencial no Power BI, cruzando bases da RAIS e Comex Stat.
 
