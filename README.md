@@ -52,7 +52,7 @@ Repositório dedicado à exploração prática e construção de base técnica. 
 
 > Aqui estão alguns dos projetos práticos que desenvolvi para simular e resolver desafios do ambiente fabril:
 
-#### 📉 [Dashboard de OEE (Eficácia Global do Equipamento)]([LINK_DO_SEU_PROJETO_FUTURO_SE_HOUVER])
+#### 📉 [Dashboard de OEE (Eficácia Global do Equipamento)]([https://github.com/JoseSergio414/Dashboard-Industrial-An-lise-de-OEE-Efic-cia-Global-do-Equipamento-.git])
 Painel interativo construído no Power BI para monitorar os três pilares industriais: Disponibilidade, Performance e Qualidade de uma linha de produção simulada.
 
 #### 📦 [Análise de Inventário - Curva ABC]([LINK_DO_SEU_PROJETO_FUTURO_SE_HOUVER])
