@@ -41,7 +41,7 @@ Mapeamento da maturidade tecnológica e impactos no RH da GM São José dos Camp
 Projeto de análise de dados governamentais para mapeamento de balança comercial e fluxo de importação/exportação.
 - **Minha atuação:** Liderança na etapa de tratamento e higienização dos dados brutos e desenvolvimento do Dashboard interativo em Power BI.
 
-#### 🪑 [Desenvolvimento e Produção de Móvel Planejado](link_aqui)
+#### 🪑 [Desenvolvimento e Produção de Móvel Planejado](https://github.com/JoseSergio414/Projeto-e-desenvolvimentos-de-Produtos.git)
 Projeto prático focado no desenvolvimento de produto e planejamento de manufatura. Elaboração de relatório técnico abrangendo o escopo do projeto, desenho técnico, documentação, dimensionamento de materiais e roteiro de produção.
 
 #### 📈 [Modelagem em Pesquisa Operacional](link_aqui)
