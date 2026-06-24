@@ -47,6 +47,9 @@ Projeto prático focado no desenvolvimento de produto e planejamento de manufatu
 #### 📈 [Modelagem em Pesquisa Operacional](link_aqui)
 Repositório contendo planilhas e modelos matemáticos de Pesquisa Operacional voltados para otimização de recursos, minimização de custos e maximização de resultados (aplicações diretas para PCP e Logística).
 
+#### 🧰 [Fundamentos de Análise de Dados e BI (1º Semestre)](https://github.com/JoseSergio414/Fontes_dados.git)
+Repositório dedicado à exploração prática e construção de base técnica. Contém scripts, tratamento de bases brutas e painéis iniciais desenvolvidos em **Python, Excel e Power BI**, servindo como fundação para projetos mais complexos de inteligência de negócios.
+
 > Aqui estão alguns dos projetos práticos que desenvolvi para simular e resolver desafios do ambiente fabril:
 
 #### 📉 [Dashboard de OEE (Eficácia Global do Equipamento)]([LINK_DO_SEU_PROJETO_FUTURO_SE_HOUVER])
