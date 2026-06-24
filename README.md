@@ -61,8 +61,7 @@ Modelagem feita em Excel/Python para classificação de estoque de segurança e 
 
 Seja para trocar experiências sobre a indústria, discutir melhoria contínua ou oportunidades de projetos, sinta-se à vontade para entrar em contato!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAQNFEZhcRe%2B9KOpruSdo5w%3D%3D])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsergio.sanntos@gmail.com)
-
 ---
 *“Em Deus nós confiamos. Para o resto, tragam dados.” – W. Edwards Deming*
