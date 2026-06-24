@@ -37,12 +37,12 @@ Aqui estão os principais projetos práticos e acadêmicos que desenvolvi, focad
 Mapeamento da maturidade tecnológica e impactos no RH da GM São José dos Campos. 
 - **Minha atuação:** Fui o responsável pelo Tratamento de Dados (ETL) utilizando Python e pela modelagem/criação do Dashboard gerencial no Power BI, cruzando bases da RAIS e Comex Stat.
 
-#### 🚢 [Análise de Comércio Exterior - Comex Stat (API 1º Semestre)](link_aqui)
+#### 🚢 [Análise de Comércio Exterior - Comex Stat (API 1º Semestre)](https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API.git)
 Projeto de análise de dados governamentais para mapeamento de balança comercial e fluxo de importação/exportação.
 - **Minha atuação:** Liderança na etapa de tratamento e higienização dos dados brutos e desenvolvimento do Dashboard interativo em Power BI.
 
-#### 🏢 [Desenvolvimento e Planejamento de Imóvel](link_aqui)
-Projeto prático focado na gestão e viabilidade de um empreendimento imobiliário. Elaboração de relatório técnico abrangendo o escopo do projeto, documentação e layout.
+#### 🪑 [Desenvolvimento e Produção de Móvel Planejado](link_aqui)
+Projeto prático focado no desenvolvimento de produto e planejamento de manufatura. Elaboração de relatório técnico abrangendo o escopo do projeto, desenho técnico, documentação, dimensionamento de materiais e roteiro de produção.
 
 #### 📈 [Modelagem em Pesquisa Operacional](link_aqui)
 Repositório contendo planilhas e modelos matemáticos de Pesquisa Operacional voltados para otimização de recursos, minimização de custos e maximização de resultados (aplicações diretas para PCP e Logística).
