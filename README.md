@@ -41,14 +41,16 @@ Mapeamento da maturidade tecnológica e impactos no RH da GM São José dos Camp
 Projeto de análise de dados governamentais para mapeamento de balança comercial e fluxo de importação/exportação.
 - **Minha atuação:** Liderança na etapa de tratamento e higienização dos dados brutos e desenvolvimento do Dashboard interativo em Power BI.
 
+#### 🧰 [Fontes de informação e banco de Dados (1º Semestre)](https://github.com/JoseSergio414/Fontes_dados.git)
+Repositório dedicado à exploração prática e construção de base técnica. Contém scripts, tratamento de bases brutas e painéis iniciais desenvolvidos em **Python, Excel e Power BI**, servindo como fundação para projetos mais complexos de inteligência de negócios.
+
 #### 🪑 [Desenvolvimento e Produção de Móvel Planejado](https://github.com/JoseSergio414/Projeto-e-desenvolvimentos-de-Produtos.git)
 Projeto prático focado no desenvolvimento de produto e planejamento de manufatura. Elaboração de relatório técnico abrangendo o escopo do projeto, desenho técnico, documentação, dimensionamento de materiais e roteiro de produção.
 
 #### 📈 [Modelagem em Pesquisa Operacional](https://github.com/JoseSergio414/Pesquisa-Operacional.git)
 Repositório contendo planilhas e modelos matemáticos de Pesquisa Operacional voltados para otimização de recursos, minimização de custos e maximização de resultados (aplicações diretas para PCP e Logística).
 
-#### 🧰 [Fundamentos de Análise de Dados e BI (1º Semestre)](https://github.com/JoseSergio414/Fontes_dados.git)
-Repositório dedicado à exploração prática e construção de base técnica. Contém scripts, tratamento de bases brutas e painéis iniciais desenvolvidos em **Python, Excel e Power BI**, servindo como fundação para projetos mais complexos de inteligência de negócios.
+
 
 > Aqui estão alguns dos projetos práticos que desenvolvi para simular e resolver desafios do ambiente fabril:
 
